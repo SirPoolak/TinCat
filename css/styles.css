@@ -1,0 +1,245 @@
+html{
+  font-family: sans-serif;
+}
+
+body{
+  margin: auto;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1{
+  font-family: 'Rammetto One', cursive;
+}
+
+h2{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight: bold;
+}
+
+p{
+  color: #626973;
+}
+/**********************************HEAD**************************************/
+
+.head{
+  background-color: #ff4262;
+  height: 600px;
+}
+
+.head h2{
+  position: absolute;
+  color: #fffdff;
+  font-size: 2em;
+  margin-top: 40px;
+  margin-left: 20%;
+}
+
+.head h1{
+  color: #fffdff;
+  position: absolute;
+  margin-top: 200px;
+  margin-left: 20%;
+  font-size: 2.5em;
+}
+
+.menu{
+  padding-top: 50px;
+  position: absolute;
+  margin-left: 63%;
+}
+
+.menu-link{
+  color: #ffaab9;
+  text-decoration: none;
+  margin: 0 20px;
+}
+
+.iphone{
+  width: 503px;
+  position: absolute;
+  margin-left: 50%;
+  margin-top: 150px;
+}
+
+.btn-download{
+  position: absolute;
+  margin-left: 20%;
+  margin-top: 450px;
+}
+
+.btnMac {
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  color: #f7f8fd;
+  font-size: 16px;
+  background-color: #2f3239;
+  padding: 10px 15px 10px 15px;
+  border: solid #2f3239 1px;
+  text-decoration: none;
+  margin-right: 20px;
+}
+
+.btnWin {
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  color: #f7f8fd;
+  font-size: 16px;
+  background-color: rgba(0,0,0,0);
+  padding: 10px 15px 10px 15px;
+  border: solid #f7f8fd 1px;
+  text-decoration: none;
+}
+
+/**********************************HEAD-END**********************************/
+
+/**********************************DESCRIPTION********************************/
+
+.Description{
+  padding: 100px;
+  text-align: center;
+}
+
+.DesContainer{
+  display: inline-block;
+}
+
+.Des{
+  width: 230px;
+  display: inline-block;
+  margin-left: 15px;
+  margin-right: 15px;
+}
+
+.DesIcon{
+  font-size: 50px;
+  color: #ef7367;
+}
+
+/**********************************DESCRIPTION-END****************************/
+
+/**********************************PARTENAIRE********************************/
+
+.Partenaire{
+  padding: 100px;
+  background-color: #ef7367;
+}
+
+/**********************************PARTENAIRE-END*****************************/
+
+/**********************************PRICE**************************************/
+
+.Price{
+  text-align: center;
+  padding: 70px 0 100px 0;
+}
+
+.PrcTitle{
+  font-size: 36px;
+  margin: auto;
+}
+
+.PrcP{
+  margin: 10px;
+}
+
+.Prc{
+  display: inline-block;
+  width: 230px;
+  margin: 80px 15px 0 15px;
+  padding-bottom: 25px;
+  border: solid #e2dde3 1px;
+  -webkit-border-radius: 3;
+  -moz-border-radius: 3;
+  border-radius: 3px;
+}
+
+.PrcH2{
+  background-color: #f8f3f9;
+  border-bottom: solid #e2dde3 1px;
+  margin: auto;
+  padding: 10px 0;
+}
+
+.PrcPTitle{
+  font-size: 36px;
+  margin: 5px;
+  font-weight: 600;
+}
+
+.BloodBlack{
+  color: Black;
+}
+
+.btnFree{
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  color: #2f3239;
+  font-size: 16px;
+  background-color: rgba(0,0,0,0);
+  padding: 10px 70px 10px 70px;
+  border: solid #2f3239 1px;
+  text-decoration: none;
+}
+
+.btnNoFree{
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  color: White;
+  font-size: 16px;
+  background-color: #2f3239;
+  padding: 10px 70px 10px 70px;
+  border: solid White 1px;
+  text-decoration: none;
+}
+
+/**********************************PRICE-END**********************************/
+
+/**********************************DOWNLOAD**********************************/
+
+.Download{
+  text-align: center;
+  width: 100%;
+  padding: 80px 0 80px 0;
+  background-color: #ff4262;
+}
+
+.Download h1{
+  color: #fffdff;
+}
+
+.DownloadBtn{
+  margin: 50px 0;
+}
+
+.btnWinDow{
+  -webkit-border-radius: 6;
+  -moz-border-radius: 6;
+  border-radius: 6px;
+  color: #2f3239;
+  font-size: 16px;
+  background-color: #fffdff;
+  padding: 10px 15px 10px 15px;
+  border: solid #fffdff 1px;
+  text-decoration: none;
+}
+
+/**********************************DOWNLOAD-END******************************/
+
+/**********************************BOTTOM************************************/
+
+.bottom-container{
+  text-align: center;
+  margin: 100px 0 100px 0;
+}
+
+.logo-link{
+  text-decoration: none;
+  color: #2f3239;
+  margin: 0 10px;
+}
+
+/**********************************BOTTOM-END********************************/
